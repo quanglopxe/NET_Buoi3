@@ -64,17 +64,22 @@ namespace DuongThuanQuang_Bai5
         { }
         public string isHetHan()
         {
-            if (ngayHetHan > DateTime.Now)
+            if (ngayHetHan < DateTime.Now)
                 return "Da het han!";
             else
-                return "";
+                return "Chua het han";
         }
         public void toString()
         {
-            string formattedDonGia = donGia.ToString("N0");
+            var separator= new System.Globalization.NumberFormatInfo() 
+            {
+            NumberDecimalDigits = 0,
+            NumberGroupSeparator = "."
+            };
+            string formattedDonGia = donGia.ToString("N",separator);
             string formattedNgaySanXuat = ngaySanXuat.ToString("dd/MM/yyyy");
             string formattedNgayHetHan = ngayHetHan.ToString("dd/MM/yyyy");
-            Console.Write(string.Format("{0,-6}{1,-15}{2,-10}{3,-20}{4,-20}{5,0}", maHang, tenHang, donGia, ngaySanXuat, ngayHetHan, isHetHan()));
+            Console.Write(string.Format("\n{0,-16}{1,-16}{2,-16}{3,-24}{4,-20}{5,0}", maHang, tenHang, formattedDonGia, formattedNgaySanXuat, formattedNgayHetHan, isHetHan()));
         }
     }
 }

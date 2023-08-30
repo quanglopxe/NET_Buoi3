@@ -1,1 +1,12 @@
 E:\NET\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\bin\Debug\DuongThuanQuang_Bai5.exe.config
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\bin\Debug\DuongThuanQuang_Bai5.exe
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\bin\Debug\DuongThuanQuang_Bai5.pdb
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\obj\Debug\DuongThuanQuang_Bai5.csprojResolveAssemblyReference.cache
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\obj\Debug\DuongThuanQuang_Bai5.exe
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\obj\Debug\DuongThuanQuang_Bai5.pdb
+E:\NET_Tuan3\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\bin\Debug\DuongThuanQuang_Bai5.exe.config
+E:\NET_Tuan3\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\obj\Debug\DuongThuanQuang_Bai5.exe
+E:\NET_Tuan3\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\obj\Debug\DuongThuanQuang_Bai5.pdb
+E:\NET_Tuan3\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\bin\Debug\DuongThuanQuang_Bai5.exe
+E:\NET_Tuan3\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\bin\Debug\DuongThuanQuang_Bai5.pdb
+E:\NET_Tuan3\DuongThuanQuang\DuongThuanQuang_Bai5\DuongThuanQuang_Bai5\obj\Debug\DuongThuanQuang_Bai5.csprojResolveAssemblyReference.cache
